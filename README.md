@@ -1,7 +1,7 @@
 - 👋 Olá, me chamo Leonardo Figueira Santana
 - 👀 Sou estudante de Análise e desenvolvimento de sistemas, apaixonado por programação principalmente em linguagem Python, Java e C. Atualmente aprendendo sobre Estrutura de dados,pilha, fila, listas encadeadas, arvores,...
-- 🌱 Quero colaborar com comunidades buscando somar para uma codificação mais "clean" opensource.
-- 💞️ Amo gastar tempo em frente aà tela do PC e aprender mais e mais...
+- 🌱 Quero colaborar com comunidades buscando somar para uma codificação mais "clean" e opensource.
+- 💞️ Amo gastar tempo em frente na tela do PC e aprender mais e mais...
 
 - 😄 /////sobre mim: Tenho muita facilidade de comunicação, convivencia social em equipe, não tenho dificuldade em sujeição e submissão, porém tenho espírito de liderança 
 
