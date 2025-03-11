@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Leonardo Santana
+# 👨‍💻 Leonardo Santana
 
 **`Desenvolvedor`**
 
