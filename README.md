@@ -1,6 +1,6 @@
 # 👨‍💻 Leonardo Santana
 
-**`Aspirante a Desenvolvedor`**
+**`Desenvolvedor`**
 
 Meu nome é Leonardo Figueira Santana, tenho 38 anos e sou natural do Rio de Janeiro, Brasil. Desde sempre, sou apaixonado por tecnologia e pela possibilidade de transformar ideias em soluções práticas e inovadoras.
 
